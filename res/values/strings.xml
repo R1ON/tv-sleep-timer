@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сон и яркость</string>
+    <string name="sleep_service_description">Отправляет телевизор в сон по таймеру. Содержимое экрана не читает.</string>
+</resources>
